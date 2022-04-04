@@ -1,4 +1,4 @@
-# ChestXRay Pneumonia's transfer learning
+# ChestXRay Pneumonia
 
 
 
@@ -10,7 +10,8 @@
 
 ## Introduction
 
-Transfer learning of the dataset (patients with Pneumonia)
+Transfer learning of the dataset (patients with Pneumonia) and 
+application of the CNN.
 
 Dataset = https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
@@ -24,5 +25,5 @@ Python 3.7
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/Pneumonia-TF.git
+https://github.com/AbirLOUARD/Pneumonia-Detect.git
 ```
